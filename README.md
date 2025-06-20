@@ -21,3 +21,4 @@ This project analyzes fictional customer, order, and product data using SQL. It 
 
 **Author:** Musthaq Ahamed  
 [GitHub](https://github.com/mustaqahmd)
+![er-diagram png](https://github.com/user-attachments/assets/0ecaf034-6c40-4813-8dae-57de3db7891f)
